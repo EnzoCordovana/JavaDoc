@@ -29,9 +29,3 @@ jobs:
       - name: Generate Javadoc
         run: |
           javadoc -d docs -encoding UTF-8 -sourcepath src -subpackages javadoc
-
-      - name: Deploy Javadoc to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: gh-pages
-          folder: docs
