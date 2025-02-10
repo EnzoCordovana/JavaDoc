@@ -62,6 +62,13 @@ Pas besoin d'action manuelle! La documentation est **Automatiquement générée 
 
 **Lien de la JavaDoc hébergée**: [Clique ici](https://enzocordovana.github.io/JavaDoc)
 
+## Licence
+
+Ce projet est sous licence **MIT**
+Vous êtes libre de l'utiliser, de le modifier et de le partager tant que vous incluez la licence originale.
+
+Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
 ---
 
 **Bonus**: Ce projet peut être utlisé comme **template** pour générer et héberger automatiquement une JavaDoc dans n'importe quel projet Java!
