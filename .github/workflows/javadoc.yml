@@ -22,9 +22,12 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
-      - name: Generate Javadoc
+      - name: Create folder
         run: |
           mkdir -p docs
+
+      - name: Generate Javadoc
+        run: |
           javadoc -d docs -encoding UTF-8 -sourcepath src -subpackages javadoc
 
       - name: Deploy Javadoc to GitHub Pages
