@@ -28,7 +28,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: enzocordovana.github.io/JavaDoc/
+      url: https://enzocordovana.github.io/JavaDoc/
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
