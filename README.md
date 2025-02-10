@@ -15,6 +15,6 @@ La branche `main` est la branche de production, elle détient le code du projet 
 - `bin/` -> l'executable de java
 - `src/` -> contient les packages de notre code java
 
-## Gh-pages
+### Gh-pages
 
 la branche `gh-pages` est la branche d'hébergement de la doc du code du projet qui provient de la branche `main`.
