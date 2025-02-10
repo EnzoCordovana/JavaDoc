@@ -37,9 +37,13 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        run: |
+          ls -la
         with:
           # Upload entire repository
           path: 'docs/'
       - name: Deploy to GitHub Pages
+        run: |
+          ls -la
         id: deployment
         uses: actions/deploy-pages@v4
