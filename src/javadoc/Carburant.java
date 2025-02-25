@@ -1,4 +1,4 @@
-package exoEngins;
+package javadoc;
 
 /**
  * La classe Carburant gère les différents types de carburants disponibles

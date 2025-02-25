@@ -1,4 +1,4 @@
-package exoEngins;
+package javadoc;
 
 /**
  * Classe principale contenant le point d'entrée du programme.

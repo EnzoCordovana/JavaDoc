@@ -1,4 +1,4 @@
-package exoEngins;
+package javadoc;
 
 /**
  * La classe Roulant représente un engin conçu pour se déplacer sur des surfaces solides.

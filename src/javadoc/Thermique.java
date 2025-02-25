@@ -1,4 +1,4 @@
-package exoEngins;
+package javadoc;
 
 /**
  * La classe Thermique représente un système de propulsion fonctionnant avec un carburant.

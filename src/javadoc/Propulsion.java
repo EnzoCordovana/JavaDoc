@@ -1,4 +1,4 @@
-package exoEngins;
+package javadoc;
 
 /**
  * La classe abstraite Propulsion représente un système de propulsion

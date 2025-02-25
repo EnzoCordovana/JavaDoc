@@ -1,4 +1,4 @@
-package exoEngins;
+package javadoc;
 
 /**
  * La classe Flottant représente un engin conçu pour se déplacer sur l'eau.

@@ -1,4 +1,4 @@
-package exoEngins;
+package javadoc;
 
 /**
  * La classe abstraite Engin représente un véhicule ou un appareil motorisé.

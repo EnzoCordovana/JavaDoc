@@ -1,4 +1,4 @@
-package exoEngins;
+package javadoc;
 
 /**
  * La classe Eolienne représente un système de propulsion utilisant l'énergie éolienne.

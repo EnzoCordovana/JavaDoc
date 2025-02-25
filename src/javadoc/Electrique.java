@@ -1,4 +1,4 @@
-package exoEngins;
+package javadoc;
 
 /**
  * La classe Electrique représente un moteur électrique utilisé comme propulsion.
